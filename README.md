@@ -14,7 +14,7 @@ To run this,
 And you can see the output of above code.
 
 ## Output Demo:
-<img src="./output.png" />
+<img src="./Stopwatch/output.png" />
 
 ## Feedback
 

@@ -14,7 +14,7 @@ To run this,
 And you can see the output of above code.
 
 ## Output Demo:
-<img src="./output.jpeg" />
+<img src="./output.png" />
 
 ## Feedback
 
